@@ -38,7 +38,7 @@ function Navbar() {
         <div className="flex gap-4 items-center relative">
           <Link to={"/"}>
             <div className="">
-              <img src={logo} alt="" />
+              <img src='' alt="" />
             </div>
           </Link>
 
